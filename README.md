@@ -1,5 +1,6 @@
 # Course Work
 Collection of programs developed as part of university coursework.
+
 Code samples available upon request.
 
 # Dynamic Convex Hull Builder (Java)
