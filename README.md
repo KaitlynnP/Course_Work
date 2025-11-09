@@ -1,7 +1,6 @@
-# Course_Work
-Selection of programs created for course work.
-
-Code available by request from employers.
+# Course Work
+Collection of programs developed as part of university coursework.
+Code samples available upon request.
 
 # Dynamic Convex Hull Builder (Java)
 Developed a HullBuilder class implementing dynamic algorithms to maintain and update the convex hull of a 2D point set as points are added. Designed and coded three core methods (addPoint, getHull, isInsideHull) to efficiently construct, query, and test point containment within the hull. Ensured algorithmic correctness through rigorous testing and formal reasoning, then optimized for asymptotic efficiency under worst-case performance. Utilized computational geometry techniques such as orientation (chirality) tests to guarantee accurate convex hull construction during dynamic updates.
